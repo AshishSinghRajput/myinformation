@@ -1,0 +1,92 @@
+[03-Jan-2019 14:22:12 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[03-Jan-2019 14:23:18 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[03-Jan-2019 14:52:43 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[03-Jan-2019 14:52:51 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[03-Jan-2019 14:53:06 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[03-Jan-2019 14:53:14 UTC] PHP Fatal error:  Cannot redeclare User::health_information() in /home/nnsiif71zeh3/public_html/serviceonhome.com/myinformation/application/controllers/User.php on line 429
+[05-Jan-2019 13:24:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 113
+[05-Jan-2019 13:55:19 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 67
+[05-Jan-2019 13:55:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 69
+[05-Jan-2019 13:56:58 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 69
+[05-Jan-2019 14:07:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 72
+[07-Jan-2019 13:35:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 183
+[15-Jan-2019 10:33:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/system/core/Common.php on line 621
+[22-Jan-2019 06:48:10 UTC] PHP Fatal error:  Cannot redeclare User::step_income() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 794
+[25-Jan-2019 13:59:33 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/application/views/errors/html/error_php.php on line 17
+[25-Jan-2019 08:31:44 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 896
+[25-Jan-2019 14:03:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/application/views/errors/html/error_php.php on line 19
+[25-Jan-2019 14:05:44 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/system/core/Common.php on line 629
+[28-Jan-2019 19:13:26 UTC] PHP Fatal error:  Cannot redeclare userid() (previously declared in /home/nnsiif71zeh3/public_html/myinformation/application/helpers/encrypt_helper.php:3) in /home/nnsiif71zeh3/public_html/myinformation/application/helpers/db_helper.php on line 69
+[29-Jan-2019 15:03:56 UTC] PHP Fatal error:  Cannot redeclare Welcome::test() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/Welcome.php on line 186
+[29-Jan-2019 15:04:09 UTC] PHP Fatal error:  Cannot redeclare Welcome::test() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/Welcome.php on line 186
+[30-Jan-2019 17:44:27 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65028096 bytes) in /home/nnsiif71zeh3/public_html/myinformation/system/core/Exceptions.php on line 271
+[03-Feb-2019 16:17:15 UTC] PHP Fatal error:  Cannot redeclare User::dummy() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1099
+[03-Feb-2019 16:17:15 UTC] PHP Fatal error:  Cannot redeclare User::dummy() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1099
+[04-Feb-2019 13:32:30 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:32:30 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:32:30 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[04-Feb-2019 13:34:39 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:34:39 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:34:39 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[04-Feb-2019 13:34:47 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:34:47 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:34:47 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[04-Feb-2019 13:34:58 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:34:58 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:34:58 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[04-Feb-2019 13:35:02 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:35:02 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:35:02 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[04-Feb-2019 13:36:12 UTC] PHP Notice:  Undefined offset: 24 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 97
+[04-Feb-2019 13:36:12 UTC] PHP Notice:  Undefined offset: 25 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 98
+[04-Feb-2019 13:36:12 UTC] PHP Notice:  Undefined offset: 26 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 99
+[13-Feb-2019 17:20:34 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/application/views/index.php on line 389
+[13-Feb-2019 17:22:09 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nnsiif71zeh3/public_html/myinformation/application/views/index.php on line 389
+[08-Apr-2019 17:40:19 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 6723
+[08-Apr-2019 17:40:55 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 6723
+[08-Apr-2019 20:10:45 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 6723
+[09-Apr-2019 01:12:39 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 7474
+[09-Apr-2019 01:14:20 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8225
+[09-Apr-2019 01:14:24 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8225
+[09-Apr-2019 01:15:15 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8976
+[09-Apr-2019 01:15:54 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 9442
+[09-Apr-2019 01:16:52 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 9467
+[09-Apr-2019 01:17:37 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 9560
+[09-Apr-2019 01:19:54 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 7474
+[09-Apr-2019 01:20:50 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8225
+[09-Apr-2019 01:21:46 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8976
+[09-Apr-2019 01:25:39 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 7474
+[09-Apr-2019 01:28:05 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 8225
+[09-Apr-2019 08:51:45 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 9189
+[01-May-2019 17:12:06 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome_model::getCity() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 212
+[01-May-2019 17:12:34 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome_model::getCity() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 212
+[01-May-2019 17:12:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome_model::getCity() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 212
+[02-May-2019 15:02:02 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome_model::getstateRecored() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 212
+[02-May-2019 09:42:48 UTC] PHP Fatal error:  Cannot redeclare User::getallcity() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 214
+[06-May-2019 08:17:32 UTC] PHP Notice:  Undefined offset: 32 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 147
+[06-May-2019 08:17:32 UTC] PHP Notice:  Constant add_plans already defined in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 147
+[06-May-2019 16:28:17 Asia/Kolkata] PHP Fatal error:  Cannot use [] for reading in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/resume/resume.php on line 15
+[07-May-2019 18:04:13 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nnsiif71zeh3/public_html/myinformation/application/libraries/Pdfgenerator.php on line 5
+[07-May-2019 18:05:54 Asia/Kolkata] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/nnsiif71zeh3/public_html/myinformation/application/libraries/Pdfgenerator.php on line 5
+[07-May-2019 12:47:28 UTC] PHP Fatal error:  Cannot redeclare User::download_resume() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1230
+[07-May-2019 12:47:50 UTC] PHP Fatal error:  Cannot redeclare User::download_resume() in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1230
+[08-May-2019 12:34:48 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/nnsiif71zeh3/public_html/myinformation/application/views/user/myinformaion/my_information.php on line 1964
+[18-Jun-2019 09:11:36 UTC] PHP Notice:  Constant upgrade_notice already defined in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 148
+[18-Jun-2019 09:11:38 UTC] PHP Notice:  Constant upgrade_notice already defined in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 148
+[04-Jul-2019 11:35:02 UTC] PHP Notice:  Undefined offset: 42 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 159
+[04-Jul-2019 11:35:05 UTC] PHP Notice:  Undefined offset: 42 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 159
+[04-Jul-2019 11:35:08 UTC] PHP Notice:  Undefined offset: 42 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 159
+[04-Jul-2019 11:35:13 UTC] PHP Notice:  Undefined offset: 42 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 159
+[05-Jul-2019 13:55:57 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:56:08 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:56:13 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:56:19 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:57:06 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:57:14 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:57:30 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[05-Jul-2019 13:57:31 UTC] PHP Notice:  Undefined offset: 44 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 157
+[08-Jul-2019 11:43:44 UTC] PHP Notice:  Undefined offset: 50 in /home/nnsiif71zeh3/public_html/myinformation/application/config/constants.php on line 164
+[09-Jul-2019 11:44:59 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Admin_model::_get_datatables_query() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Admin_model.php on line 420
+[27-Jul-2019 10:30:52 UTC] PHP Fatal error:  Can't use function return value in write context in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1263
+[27-Jul-2019 10:36:46 UTC] PHP Fatal error:  Can't use function return value in write context in /home/nnsiif71zeh3/public_html/myinformation/application/controllers/User.php on line 1263
+[20-Aug-2019 18:18:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Welcome_model::getMatchIncome() in /home/nnsiif71zeh3/public_html/myinformation/application/models/Welcome_model.php on line 972
